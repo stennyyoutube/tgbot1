@@ -1,0 +1,10 @@
+
+#BOT:
+TOKEN = "5032860641:AAHSZr-9Nloa9nlLdM-S7umJlO0BCK7sS5k" # ТОКЕН БОТА
+ADMIN = 5097724717 # ИД АДМИНА, узнать свой айди - @get_any_telegram_id_bot
+
+DIR = "" # Путь к файлу, если нужно
+
+#USER: # https://my.telegram.org/auth
+API_ID = 9069592
+API_HASH = "a68122113efc713427c0597f5c2ebf66"
